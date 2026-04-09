@@ -1,10 +1,22 @@
 
-# What is a Commit?
+# Commit
 
 - 스테이징된 변경 사항을 스냅샷으로 저장하는 작업.
 - 커밋 시 **Blob**, **Tree**, **Commit** 오브젝트가 생성됨.
 - 커밋이 누적되면 수정된 오브젝트 또한 누적됨.
 - GC 과정을 통해 Packfile로 정리됨. (최신 오브젝트 + Delta)
+
+# Commands
+
+```Bash
+
+git commit -m "Message" # 메시지와 함께 커밋
+git commit -am "Message" # 트래킹 중인 변경을 모두 스테이징하고 메시지와 함께 커밋
+git commit --amend "Message" # 최근 커밋 덮어쓰기
+
+git reset --soft HEAD~1 # VS Code의 "마지막 커밋 취소" 기능
+
+```
 
 # Blob (Binary Large Object)
 

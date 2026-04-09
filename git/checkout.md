@@ -1,5 +1,5 @@
 
-# What is Checkout?
+# Checkout
 
 - 특정 커밋 또는 브랜치로 이동하는 작업.
 - `switch`, `restore`로 대체 가능.
