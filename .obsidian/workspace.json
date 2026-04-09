@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Branch.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branch"
+              "title": "README"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Branch.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Branch 의 개요"
+              "title": "README 의 개요"
             }
           },
           {
@@ -192,20 +192,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e505399a93ac4ed3",
+  "active": "23ac85638cff0510",
   "lastOpenFiles": [
-    "Git/Introduction.md",
-    "Git/Commands.md",
-    "Git/Branch.md",
-    "Git/Commit.md",
+    "gitt/branch.md",
+    "cgg/nvidia_dlss.md",
+    "cgg/intro.md",
+    "NVIDIA.md",
+    "aii/transformer.md",
+    "aii/intro.md",
+    "gitt/commit.md",
+    "gitt/checkout.md",
+    "gitt/commands.md",
+    "gitt/intro.md",
+    "aii",
     "Blob.md",
     "path/to/file.md",
     "path/to",
     "path",
     "README.md",
     "CG.md",
-    "CG",
-    "Git",
+    "cgg",
+    "gitt",
     "환영합니다!.md"
   ]
 }
