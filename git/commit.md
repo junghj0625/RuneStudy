@@ -11,10 +11,15 @@
 ```Bash
 
 git commit -m "Message" # 메시지와 함께 커밋
-git commit -am "Message" # 트래킹 중인 변경을 모두 스테이징하고 메시지와 함께 커밋
-git commit --amend "Message" # 최근 커밋 덮어쓰기
+git commit -a # Tracked File을 모두 스테이징
 
-git reset --soft HEAD~1 # VS Code의 "마지막 커밋 취소" 기능
+git commit --allow-empty -m "Empty Commit" # 빈 커밋
+git commit --no-edit # 이전 메시지를 사용
+
+git commit --amend -m "Corrected message" # 최근 커밋 덮어쓰기
+git commit --amend --no-edit # 최근 커밋 덮어쓰기 (메시지 유지)
+
+git reset --soft HEAD~1 # 마지막 커밋 취소
 
 ```
 
