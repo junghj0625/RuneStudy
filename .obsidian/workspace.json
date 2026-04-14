@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/branch.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "branch"
+              "title": "README"
             }
           }
         ]
@@ -193,25 +193,28 @@
   },
   "active": "0b1b6c722eae4bfd",
   "lastOpenFiles": [
-    "git/checkout.md",
+    "English/이유의 접속사.md",
+    "무제.md",
+    "English",
+    "README.md",
+    "git/tagging.md",
+    "git/submodule.md",
+    "git/stash.md",
+    "git/staging.md",
+    "git/rebase.md",
+    "git/pull.md",
     "git/intro.md",
     "git/history.md",
-    "git/pull.md",
-    "git/branch.md",
-    "git/clone.md",
+    "git/config.md",
     "git/commit.md",
     "git/commands.md",
-    "git/config.md",
-    "git/stash.md",
-    "git/tagging.md",
-    "git/staging.md",
-    "README.md",
+    "git/clone.md",
+    "git/checkout.md",
+    "git/branch.md",
+    "cg/nvidia_dlss.md",
+    "cg/intro.md",
     "ai/transformer.md",
     "ai/intro.md",
-    "cg/intro.md",
-    "cg/nvidia_dlss.md",
-    "git/rebase.md",
-    "git/submodule.md",
     "NVIDIA.md",
     "ai",
     "Blob.md",
