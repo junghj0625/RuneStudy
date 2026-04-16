@@ -191,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b1b6c722eae4bfd",
+  "active": "23ac85638cff0510",
   "lastOpenFiles": [
-    "English/이유의 접속사.md",
     "무제.md",
-    "English",
+    "algorithm",
     "README.md",
+    "englishh/이유의 접속사.md",
+    "englishh",
     "git/tagging.md",
     "git/submodule.md",
     "git/stash.md",
@@ -223,7 +224,6 @@
     "path",
     "CG.md",
     "cg",
-    "git",
-    "환영합니다!.md"
+    "git"
   ]
 }
