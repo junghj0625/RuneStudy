@@ -5,7 +5,9 @@ Personal Study Archive
 # Index
 
 - [CG](cg/intro.md)
+- [Algorithm](algorithm/intro.md)
+- [Design Pattern](dp/intro.md)
 - [AI](ai/intro.md)
 - [Git](git/intro.md)
-- [Docker](Docker/Intro.md)
-- [English](English/Intro.md)
+- [Docker](docker/Intro.md)
+- [English](english/Intro.md)
