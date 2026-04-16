@@ -11,10 +11,14 @@
             "id": "6b0df4bde3b4eb2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docker/getting started.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "getting started"
             }
           }
         ]
@@ -187,17 +191,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23ac85638cff0510",
+  "active": "6b0df4bde3b4eb2a",
   "lastOpenFiles": [
+    "docker/container.md",
+    "docker/getting started.md",
+    "docker/image.md",
     "docker/intro.md",
+    "git/intro.md",
     "README.md",
     "docker",
     "Docker/Intro.md",
     "Docker",
-    "dp/intro.md",
+    "design pattern/intro.md",
     "algorithm/intro.md",
     "무제.md",
-    "dp",
+    "design pattern",
     "Design Pattern",
     "ai/intro.md",
     "english/이유의 접속사.md",
@@ -209,7 +217,6 @@
     "git/staging.md",
     "git/rebase.md",
     "git/pull.md",
-    "git/intro.md",
     "git/history.md",
     "git/config.md",
     "git/commit.md",
@@ -218,9 +225,6 @@
     "git/checkout.md",
     "git/branch.md",
     "cg/nvidia_dlss.md",
-    "cg/intro.md",
-    "ai/transformer.md",
-    "NVIDIA.md",
     "ai",
     "path/to",
     "path",
