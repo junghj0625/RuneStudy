@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37d119529fc9aca2",
+        "id": "43c955518407df23",
         "type": "tabs",
         "children": [
           {
-            "id": "d5794039b1395d4a",
+            "id": "6b0df4bde3b4eb2a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,9 +189,9 @@
   },
   "active": "23ac85638cff0510",
   "lastOpenFiles": [
+    "docker/intro.md",
     "README.md",
-    "dockerr/intro.md",
-    "dockerr",
+    "docker",
     "Docker/Intro.md",
     "Docker",
     "dp/intro.md",
